@@ -55,8 +55,5 @@ The sniffer will start capturing packets and display the output in the terminal.
     Payload Data:
       b'\x00\x00\x00\x00\x00\x00...\x00'
 
-## Disclaimer
-
-This tool is for educational and ethical use only. Please ensure you have permission to capture packets on the network you are monitoring. Unauthorized packet sniffing is illegal and unethical.
 
 
