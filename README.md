@@ -2,7 +2,7 @@
 
 ## Overview
 
-This packet sniffer is a Python tool designed to capture and analyze network packets at the Ethernet level. It displays relevant information such as source and destination IP addresses, protocols, and payload data. The tool is intended for educational purposes and should be used ethically.
+This Network Traffic Analyser is a Python tool designed to capture and analyze network packets at the Ethernet level. It displays relevant information such as source and destination IP addresses, protocols, and payload data. The tool is intended for educational purposes and should be used ethically.
 
 ## Features
 
