@@ -1,4 +1,4 @@
-# Packet Sniffer
+# Network Traffic Analyser 
 
 ## Overview
 
